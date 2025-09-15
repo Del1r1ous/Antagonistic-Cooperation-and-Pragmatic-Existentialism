@@ -114,6 +114,3 @@ This formalization captures a philosophy where meaning, truth, and morality are 
 ---
 
 *Note: This framework is part of an ongoing project. Contributions and discussions are welcome*
----
-
-> **Note**: This project is a work in progress and welcomes contributions.
