@@ -1,5 +1,3 @@
-***
-
 ### **The Worldview Imperative: A Philosophy for Navigating a Challenging World**
 
 This philosophy isn't just a set of ideas; it's a practical toolkit for thinking, acting, and cooperating in a complex reality. It's built on a few core principles that build upon each other.
