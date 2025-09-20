@@ -47,32 +47,7 @@ With grounding function: `G: A_n → P(A₀)`
 
 ## Repository Structure
 
-```
-PSST/
-├── axioms/
-│   ├── primordial_partition.md
-│   ├── primacy_of_objective.md
-│   └── coherence_condition.md
-├── functions/
-│   ├── modeling_function.md
-│   ├── realization_function.md
-│   └── fitness_predicate.md
-├── definitions/
-│   ├── pragmatic_truth.md
-│   ├── stratification.md
-│   └── conscious_systems.md
-├── theorems/
-│   ├── unattainability_of_truth.md
-│   └── hierarchical_refinement.md
-├── examples/
-│   ├── gravity_concept.md
-│   ├── mathematical_objects.md
-│   └── ethical_frameworks.md
-├── applications/
-│   ├── epistemology.md
-│   ├── artificial_intelligence.md
-│   └── cognitive_science.md
-└── README.md
+
 ```
 
 ## Key Features
@@ -88,7 +63,3 @@ PSST/
 - Artificial Intelligence: Model evaluation and refinement frameworks
 - Cognitive Science: Understanding mental representation
 - Philosophy of Science: Theory evaluation and scientific progress
-
-## License
-
-This work is licensed under a Creative Commons Attribution 4.0 International License.
