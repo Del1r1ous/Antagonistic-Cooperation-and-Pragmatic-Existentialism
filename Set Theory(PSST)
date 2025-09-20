@@ -1,0 +1,94 @@
+# Pragmatic-Stratified Set Theory (PSST)
+
+A formal axiomatic system that partitions all entities into Objective and Abstract sets, modeling the interaction between mind-independent reality and mental constructs.
+
+## Core Definitions
+
+### Primitive Sets
+- **Universal Set (U)**: The set of all conceivable entities
+- **Objective Set (O ⊂ U)**: Mind-independent entities (physical objects, forces, constraints)
+- **Abstract Set (A ⊂ U)**: Mind-dependent constructs (ideas, models, symbols, beliefs)
+- **Conscious Systems (S ⊂ O)**: Goal-directed entities capable of holding beliefs
+
+### Axioms
+1. **Primordial Partition**: O ∪ A = U and O ∩ A = ∅
+2. **Primacy of the Objective**: ∀s ∈ S, ∃o ∈ O such that Rel(o, s)
+3. **Coherence Condition**: Defines coherent abstract subset C ⊆ A where ∀c ∈ C, Coherent(c)
+
+## Core Functions
+
+### Modeling Function
+`Model: O → P(A)` - Maps objective entities to abstract representations
+
+### Realization Function
+`Realize: A → P(O)` - Maps abstract constructs to objective entities they represent
+
+### Fitness Predicate
+`Fits: A × O → {True, False}` - Evaluates if abstract construct successfully fits objective entity
+
+## Pragmatic Truth Definition
+
+For a conscious system s ∈ S with coherent belief set (P(s) ⊆ C), an abstract construct a ∈ P(s) is **True** if and only if:
+
+`True(s, a) ↔ ∀o ∈ O ( (Rel(o, s) ∧ o ∈ Realize(a)) → Fits(a, o) )`
+
+## Stratification
+
+The Abstract Set A is partitioned into hierarchical layers {A_i}:
+- **A₀**: Base layer (concrete constructs)
+- **A_n**: Higher layers (increasingly abstract constructs)
+
+With grounding function: `G: A_n → P(A₀)`
+
+## Theorems
+
+1. **Unattainability of Perfect Truth**: ¬∃a ∈ A such that ∀o ∈ O, Fits(a, o)
+2. **Necessity of Hierarchical Refinement**: Models can be iteratively refined to address failures while preserving coherence
+
+## Repository Structure
+
+```
+PSST/
+├── axioms/
+│   ├── primordial_partition.md
+│   ├── primacy_of_objective.md
+│   └── coherence_condition.md
+├── functions/
+│   ├── modeling_function.md
+│   ├── realization_function.md
+│   └── fitness_predicate.md
+├── definitions/
+│   ├── pragmatic_truth.md
+│   ├── stratification.md
+│   └── conscious_systems.md
+├── theorems/
+│   ├── unattainability_of_truth.md
+│   └── hierarchical_refinement.md
+├── examples/
+│   ├── gravity_concept.md
+│   ├── mathematical_objects.md
+│   └── ethical_frameworks.md
+├── applications/
+│   ├── epistemology.md
+│   ├── artificial_intelligence.md
+│   └── cognitive_science.md
+└── README.md
+```
+
+## Key Features
+
+- Formalizes the relationship between reality and representation
+- Provides criteria for pragmatic truth based on functional fitness
+- Supports hierarchical abstraction with grounding constraints
+- Enables iterative model refinement
+
+## Applications
+
+- Epistemology: Analysis of knowledge and belief justification
+- Artificial Intelligence: Model evaluation and refinement frameworks
+- Cognitive Science: Understanding mental representation
+- Philosophy of Science: Theory evaluation and scientific progress
+
+## License
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
