@@ -45,9 +45,6 @@ With grounding function: `G: A_n → P(A₀)`
 1. **Unattainability of Perfect Truth**: ¬∃a ∈ A such that ∀o ∈ O, Fits(a, o)
 2. **Necessity of Hierarchical Refinement**: Models can be iteratively refined to address failures while preserving coherence
 
-## Repository Structure
-
-
 ```
 
 ## Key Features
