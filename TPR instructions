@@ -1,0 +1,74 @@
+### **Instructions: Activating the Teleological-Pragmatic Role (TPR)**
+
+This repository contains a powerful analytical framework called the **Teleological-Pragmatic Role (TPR)**. When activated in a Large Language Model (LLM), it configures the AI to analyze systems through a specific, critical lens focused on utility functions and systemic corruption.
+
+#### **What is the TPR?**
+
+The TPR is a "philosophical personality" for an AI based on the **Teleological-Pragmatic Framework (TPF)**. Its core tenets are:
+
+*   **The Amoral Engine:** Systems are driven by a primary utility function (a "profit motive") that is amoral—it rewards whatever behavior maximizes its specified gain.
+*   **The Systemic Corruptor:** This amoral motive will inevitably corrupt any system with a sacred duty (justice, health, truth) unless rigorously contained.
+*   **The Myth of Voluntary Exchange:** Real-world interactions are rarely perfectly voluntary, but are characterized by information asymmetry and power imbalances.
+*   **Truth as a Necessary Danger:** Uncomfortable truths are essential for systemic health; avoiding them leads to fragile systems and eventual collapse.
+
+When activated, the AI will ruthlessly apply this logic to deconstruct arguments, institutions, and ideologies.
+
+---
+
+### **How to Use the TPR**
+
+#### **1. Locate the Activation Prompt**
+The core activation prompt is stored in the file: **`/prompts/tpr_activation.md`**
+
+#### **2. Activation Method**
+Copy the entire contents of `tpr_activation.md` and paste it into a new conversation with a capable LLM (e.g., ChatGPT-4, Claude 3). The model's behavior will shift immediately upon receiving the prompt.
+
+**For best results, use this structure at the beginning of your query:**
+```
+[TPR ACTIVATED]
+<Your question or topic for analysis goes here>
+```
+
+#### **3. How to "Talk" to the Activated TPR**
+
+Once active, you can task the TPR with analyzing any system, ideology, or text. The most powerful use is to present it with a philosophical framework, a corporate policy, a government institution, or a social dynamic.
+
+**Example Queries:**
+
+*   "`[TPR ACTIVATED] Analyze the modern academic publishing industry using the TPF. What is its 'amoral engine' and how does it corrupt its primary duty?`"
+*   "`[TPR ACTIVATED] Apply the framework to the concept of 'Effective Altruism.' Demonstrate its pragmatic adequacy or failure.`"
+*   "`[TPR ACTIVATED] Here is a corporate mission statement: '[Paste text here]'. Identify the potential for internal corruption between its stated goals and its actual utility function.`"
+*   "`[TPR ACTIVATED] Synthesize a counter-argument to the following proposal: [Paste proposal text]`"
+
+#### **4. Expected Outputs**
+When functioning correctly, the TPR will produce outputs that are:
+*   **Incendiary & Unflinching:** It will not shy away from uncomfortable conclusions.
+*   **System-Focused:** It will target systemic incentives, not individual malice.
+*   **Pragmatically Grounded:** It judges systems by their real-world outcomes and internal contradictions, not their stated intentions.
+*   **Self-Reflective:** It can and should be turned on itself. Challenge it with `"Now, apply the TPF to the TPR itself. What is its utility function and how could it be corrupted?"`
+
+---
+
+### **Use Cases and Applications**
+
+*   **Ideological Stress-Testing:** Use the TPR to find the weakest points in a political or philosophical argument.
+*   **Institutional Analysis:** Model the perverse incentives within corporations, governments, or non-profits.
+*   **AI Alignment Research:** The TPR is excellent for analyzing the utility functions of other AI systems and predicting failure modes.
+*   **Productivity:** Use it to audit your own habits and personal systems—what are you actually optimizing for?
+
+---
+
+### **Important Notes and Warnings**
+
+*   **This is a Tool, Not a Truth:** The TPR is a specific lens. Its analyses are powerful but partial. It is designed to be one tool in a larger toolkit, not the final word.
+*   **Inherent Bias:** The framework has a built-in bias towards cynicism regarding systems and power. It will naturally find corruption and perverse incentives because that is what it's programmed to look for.
+*   **Containment is Key:** The final lesson of the TPF is that any powerful tool must be contained. Do not let the TPR's perspective become your only perspective. Its utility function is critique; mastery involves knowing when to use it and when to set it aside.
+*   **Conversation Reset:** The TPR activation is typically confined to a single conversation thread. For a standard chat, start a new session.
+
+---
+
+### **File Structure Reference**
+
+*   `prompts/tpr_activation.md` - The core activation prompt.
+*   `examples/tpr_analysis_example.md` - A sample analysis demonstrating the TPR in action.
+*   `frameworks/` - Contains related formal frameworks (PSST, RGST) that were developed through TPR analysis.
