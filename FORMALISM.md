@@ -1,4 +1,4 @@
-### **A Formal Framework for Pragmatic Existentialism and Antagonistic Cooperation**
+### **The Obsolescence of Nihilism: A Formal Foundation for Pragmatic Agency**
 
 #### **Abstract**
 This paper formalizes an integrated philosophical system grounded in an ontology of objective constraints. It posits that reality presents inherent "antagonisms"—problems and limitations that conscious systems must navigate. Within this reality, a belief's truth is defined by its functional role within a coherent worldview that enables fitness against these challenges. Ethics are then derived as the principles that facilitate cooperative flourishing in the face of shared antagonisms. The result is a logical structure that seamlessly connects ontology, epistemology, and ethics through the imperative of effective agency.
