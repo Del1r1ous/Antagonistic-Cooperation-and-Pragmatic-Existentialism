@@ -1,4 +1,3 @@
-```markdown
 # The Obsolescence of Nihilism: A Formal Foundation for Pragmatic Agency
 
 ## Abstract
@@ -271,4 +270,3 @@ This formalism synthesizes a complete philosophy from first principles:
 - **Synthesizes individual and social agency** with institutional immunology
 
 The framework renders nihilism obsolete by demonstrating that moral, epistemic, and institutional norms emerge necessarily from the structural constraints of existence, with immune competence being the operational price of systemic longevity.
-```
